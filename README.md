@@ -1,8 +1,8 @@
 # Design System Builder
 
-**From tokens to components to documentation — the complete design system workflow.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For design/UI engineers: ship a production design system, tokens to handoff.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Build a production design system end to end. Covers design token systems, component API design, color accessibility, dark mode, icon systems, and prototype specs.
+Reach for this when you're standing up or maturing a real design system and need every layer to fit together — not a pile of one-off design tips. You get a coherent token architecture (global → semantic → component) with theming and dark mode, accessible color and contrast, a consistent icon and motion system, clean component APIs, and implementation-ready specs your engineers can build from. The result is a system that stays consistent across light/dark, scales past the first few screens, and survives the handoff to engineering.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -21,7 +21,7 @@ Build a production design system end to end. Covers design token systems, compon
 - **[Icon System](skills/icon-system/SKILL.md)** — Designs consistent icon systems — grid, stroke weight, optical sizing, naming conventions.
 - **[Prototype Spec](skills/prototype-spec/SKILL.md)** — Writes detailed prototype specs: interactions, transitions, states, and edge cases.
 - **[Animation System](skills/animation-system/SKILL.md)** — Designs motion systems — easing curves, durations, choreography — for UI components.
-- **[Frontend Design](https://github.com/anthropics/skills)** — Official Anthropic skill. _(external — see source)_
+- **[Frontend Design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)** — Official Anthropic skill. _(external — see source)_
 
 ## License
 
